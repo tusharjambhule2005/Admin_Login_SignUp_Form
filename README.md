@@ -188,3 +188,24 @@ Open db.php and set your database credentials:
 - Start Apache & MySQL from XAMPP.
 - Open your browser and go to:
 - http://localhost/Admin_Login_SignUp_Form/admin/login.php
+  
+  ---
+### Screenshots
+
+## Login Page
+![Login Page](screenshots/login.jpg)
+
+## Signup Page
+![Signup Page](screenshots/signup.jpg)
+
+## Forget Password
+![Forget Password](screenshots/forget_password.jpg)
+
+## Verify OTP
+![Verify OTP](screenshots/verify_otp.jpg)
+
+## Forget password Link sent
+![Forget Password Link successfully sented](screenshots/forget_password_link_sent.jpg)
+
+## Reset Password
+![Reset Password](screenshots/reset_password.jpg)
